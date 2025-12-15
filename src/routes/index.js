@@ -1,6 +1,7 @@
 import { Router } from 'express';
 import contractRoutes from '../modules/contracts/routes.js';
 import entityRoutes from '../modules/entities/routes.js';
+import authRoutes from './auth.js';
 
 const router = Router();
 
@@ -12,5 +13,6 @@ router.get('/', (req, res) => {
 // Mount feature routers
 router.use('/contracts', contractRoutes);
 router.use('/entities', entityRoutes);
+router.use('/auth', authRoutes);
 
 export default router;
