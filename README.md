@@ -1,4 +1,4 @@
-# Ultorion (Advanced CMS AI System)
+# Ultorion (Advanced AI CMS)
 
 **Codename:** Ultorion — derived from *Ultor* (Latin: avenger) and *Orion* (mythic hunter).  
 Symbolizing power, vision, and relentless pursuit of clarity — the essence of this AI-driven content management and reporting engine.
