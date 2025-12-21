@@ -21,7 +21,7 @@ It combines intelligent automation with **dynamic forms**, **reporting**, **anal
 ---
 
 ## 🛠️ Tech Stack
-- **Backend**: Node.js / Python (modular services)  
+- **Backend**: Node.js (modular services)  
 - **Frontend**: HTML, CSS, JavaScript (dynamic UI components)  
 - **Database**: MariaDB / MySQL (flexible schema handling)  
 - **Visualization**: D3.js / Chart.js for graphical reporting  
